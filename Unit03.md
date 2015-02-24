@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Capitalism, Agriculture, and Industry** <span id="3"></span> 
 **Capitalism, an economic system based on the private ownership of
 productive power, made the Industrial Revolution possible by creating

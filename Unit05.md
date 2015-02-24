@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Social and Political Impact of Industrialization** <span
 id="5"></span> 
 **Industrialization was not merely a change in the way societies

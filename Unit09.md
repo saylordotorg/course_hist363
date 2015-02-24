@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Alternative Models of Industrialization** <span
 id="9"></span> 
 **After the First World War, a revolutionary government in Russia tried

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Imperialism and Industrialization in Asia** <span
 id="6"></span> 
 **The Industrial Revolution came late to East Asia.  By many accounts,

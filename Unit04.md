@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Industrial Revolution in England** <span id="4"></span> 
 **The Industrial Revolution began in England, which was by 1750 one of
 the wealthiest capitalist states in the world.  The Industrial

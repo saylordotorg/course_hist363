@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Economic Crisis and War in the 20th Century** <span
 id="8"></span> 
 **While the Industrial Revolution brought great prosperity to many parts

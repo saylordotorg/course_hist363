@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Ancient and Early Modern Industry** <span id="2"></span> 
 **Industry did not begin with the Industrial Revolution. Ancient
 societies produced consumer goods on a large scale, serving markets

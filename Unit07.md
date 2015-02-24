@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST363: Global Perspectives on Industrialization"
+course_description: "A detailed study of the history and dynamics of industrialization, with particular emphasis on its global nature and its economic, social, and environmental effects from ancient times to the present."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Mass Production, the Labor Movement, and the Consumer
 Society** <span id="7"></span> 
 **In the late 19<sup>th</sup> and early 20<sup>th</sup> centuries, a
